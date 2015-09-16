@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0-*",
+    "description": "AwaitInCatchFinally Console Application",
+    "authors": [ "golfi" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+    },
+
+    "commands": {
+        "AwaitInCatchFinally": "AwaitInCatchFinally"
+    },
+
+    "frameworks": {
+        "dnx451": { }
+    }
+}
